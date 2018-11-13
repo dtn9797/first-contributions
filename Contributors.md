@@ -3652,6 +3652,7 @@ Viraj Jiwane
 - [Shaznim Hussain](https://github.com/shaznimhussain)
 - [Abhijeet Goel](https://github.com/aninjamonk)
 - [Leticia Valderas](https://github.com/monaLeti)
+-[Duy Nguyen](https://github.com/dtn9797)
 - [Justin Kim](https://github.com/justinkimsgithub)
 - [Amar Yadav](https://github.com/amar-yadav)
 - [Jimmy Mannan](https://github.com/jiimms)
